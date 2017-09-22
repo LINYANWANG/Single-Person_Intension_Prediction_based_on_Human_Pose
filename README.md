@@ -1,2 +1,2 @@
-# Linyan_Intension_Prediction_based_on_Human_Pose
-Human Intention Prediction based on Skeleton
+# Linyan Intension Prediction based on Human Pose
+By Linyan Wang
