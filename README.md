@@ -2,7 +2,7 @@
 By Linyan Wang
 
 ## Introduction
- This work is modified based on the project of "Realtime Multi-Person Pose Estimation"[1] proposed by the CMU Lab.
+  This work is modified based on the project of "Realtime Multi-Person Pose Estimation"[1] proposed by the CMU Lab.
 
 ## Contents
  1. Data Preprocess
@@ -17,7 +17,7 @@ By Linyan Wang
   4. Run ```linyan_lstm_test.py``` to test the result.
 
 ## Reference
-    [1] Zhe Cao, Tomas Simon, Shih-En Wei, and Yaser Sheikh. Realtime multi-person 2d pose estimation using part affinity fields. In CVPR, 2017. 
+ [1] Zhe Cao, Tomas Simon, Shih-En Wei, and Yaser Sheikh. Realtime multi-person 2d pose estimation using part affinity fields. In CVPR, 2017.
 
      
 
