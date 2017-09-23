@@ -14,8 +14,8 @@ By Linyan Wang
  2. LSTM-based Training
  3. LSTM-based Testing
 
-<!-- ## Data Proprocessing -->
- <!-- 1. Run ``` -->
+## Data Proprocessing
+ 1. Run ```
 
 ## Training & Testing
  1. Run ```bash get_model.sh``` to get the produced model used to estimate human pose.
